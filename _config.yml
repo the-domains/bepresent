@@ -1,0 +1,14 @@
+layout_spectrum: 0.4021537706721574
+typography_spectrum: 0.7060554502531886
+color:
+  brandStrength: 0.27664655609987676
+  lightness: 0.04672819911502302
+  saturation: 0.48121541808359325
+  rhythmicContrast: 0.06999105191789567
+  brandColors:
+    - '#FFFFFF'
+    - '#9CDFFC'
+    - '#0D0908'
+    - '#3D4D43'
+    - '#E0575E'
+name: BEPresent
